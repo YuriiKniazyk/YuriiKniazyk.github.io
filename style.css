@@ -1,0 +1,197 @@
+﻿body {
+    margin:0;
+}
+
+header {
+    width: 100%;
+    height: 40px;
+    background-color: #000000;
+    text-align: center;
+    position:fixed;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding-right: 70px;
+    font-size:1.2em;
+    font-weight: bold;
+}
+nav {
+    padding-bottom: 3px;
+    padding-top: 10px;
+    color: #f8d50e;
+}
+a.yurii {
+    width: 220px;
+    color: red;
+    display: inline-block;
+    float: left;
+    padding-right: 0;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    font-family: 'Nothing+You+Could+Do', cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#aboutme {
+    width: 100%;
+    height: 600px;
+    background-image: url('img.jpg');
+    background-size: 100%;
+}
+.h2about {
+    color: black;
+    margin-top: 0;
+    padding-top: 60px;
+    text-align:center;
+    margin-bottom:0;
+}
+.mage{border-radius:100px;
+      margin-left: auto;
+      margin-right:50px;
+      display: block;
+      height:130px;
+      width: 130px;
+      font-weight:200;
+}
+#textme {
+    height:100px;
+    width: auto;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: right;
+}
+.textme {
+    height:100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 120px;
+    color: red;
+    font-size:2em;
+    text-align: center;
+    font-weight:bold;
+}
+
+#whatido {
+    width: 100%;
+    height: 300px;
+    background-size: 100%;
+    background-color: white;
+}
+.h2what {
+    color: black;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;    
+}
+#but {
+    width: 100%;
+    float:left;
+    margin: 0;
+}
+article {
+    float: left;
+    width: 32.3%;
+    border: none;
+    box-sizing: border-box;
+    min-height: 240px;
+    text-align: center;
+}
+    article i {
+        width: 50px;
+        height: 40px;
+        display: flex;
+        padding-left: 50px;
+        padding-right: 50px;
+        font-size: 2em;
+        color:red;
+    }
+    article ul {
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        font-size: 1.2em;
+    }
+ul {
+    list-style-type:none;
+}
+
+#contact {
+    width: 100%;
+    height: 150px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.contact1 {
+    margin-top: 0;
+    padding-top: 0;
+    text-decoration-color: black;
+    border-radius: 5px;
+    height: 20px;
+}
+.yu {
+    margin-top: 0;
+    color: black;
+    margin-bottom:0;
+}
+.b {
+    margin-top: 0;
+    color: black;
+    font-size: 1em;
+    margin-bottom: 0;
+}
+.alex {
+    margin:0;
+}
+.alex a {
+    margin: 0;
+    color: blue;
+    font-size: 1em;
+    text-decoration: underline;
+    padding: 0;
+}
+#contact p {
+    line-height: 25px;
+}
+a i {
+    color : black;
+    padding-bottom: 20px;
+}
+ul.but {
+    width:423px;
+    display: flex;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+    ul.but li {
+        width:41px;
+        height: 50px;
+        display: flex;
+        padding-left:50px;
+        padding-right:50px;
+    }
+
+footer {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    background-color: black;
+}
+.foot {
+    font-size: 1em;
+    padding-top: 0;
+    margin:0;
+}
+h5 {
+    color: white;
+    padding-top: 10px;
+    margin-top:0;
+    margin-bottom:0;
+}
