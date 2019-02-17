@@ -1,4 +1,4 @@
-﻿body {
+body {
     margin:0;
 }
 
@@ -194,4 +194,7 @@ h5 {
     padding-top: 10px;
     margin-top:0;
     margin-bottom:0;
+}
+h5 a {
+    padding:0;
 }
